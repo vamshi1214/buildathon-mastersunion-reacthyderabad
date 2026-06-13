@@ -1,24 +1,6 @@
 # Project Submission Template
 
-Create a new file inside the `submissions/` folder using this naming format:
-
-```txt
-projectname_attendeeName.md
-```
-
-Example:
-
-```txt
-ai-sales-copilot_shlok-srivastava.md
-```
-
-Copy the template below into your new file and fill in the details.
-
----
-
 # Project Name
-
-Write your project name here.
 
 lumina-copilot
 
@@ -33,10 +15,6 @@ lumina-copilot
 
 ## Problem Statement Selected
 
-Mention the title of the problem statement you selected.
-
-Choose one:
-
 ```txt
 HR Cost Intelligence Engine
 ```
@@ -44,10 +22,6 @@ HR Cost Intelligence Engine
 
 ## Project Description
 
-
-Write your answer here.
-
----
 
 ## Approach
 
